@@ -13,7 +13,7 @@ config_version=5
 config/name="Prox2 Party"
 run/main_scene="uid://p712x1uliom2"
 config/features=PackedStringArray("4.4", "Mobile")
-config/icon="res://icon.svg"
+config/icon="uid://cvs5hmmo5qnek"
 
 [editor_plugins]
 
